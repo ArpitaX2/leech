@@ -1,7 +1,7 @@
-pyrogram==1.4
+pyrogram
 tgcrypto
 requests
-pyromod==1.4
+pyromod
 yt-dlp
 aiohttp
 aiofiles
